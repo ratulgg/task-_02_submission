@@ -11,7 +11,7 @@ public class UniversityDemo {
         csDept.addStudent(s1);
         csDept.addStudent(s2);
 
-        Department sweDept = new Department("Mathematics", "Dr.Y");
+        Department sweDept = new Department("Software", "Dr.Y");
        sweDept.addStudent(s3);
         sweDept.addStudent(s4);
 
